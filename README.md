@@ -80,4 +80,12 @@ WHERE customer_id IN (
     FROM Orders
     WHERE quantity > 1
 );
+![{D88C52FB-46BF-498E-8B96-BE39F057D16D}](https://github.com/user-attachments/assets/a529d7b9-5d5d-4133-9f04-8532d85c7c7b)
+![{A832C0B4-60BA-4644-94A2-E1965357DD70}](https://github.com/user-attachments/assets/6554027b-9f84-448f-bbcc-825c86ae221d)
+![{61DC0BD0-82D7-424B-886A-1E79FFE8A2DF}](https://github.com/user-attachments/assets/125236f5-2c82-4fcb-8449-dc01daed7cf1)
+![{321151DC-25D4-4614-8FC7-975B2242A653}](https://github.com/user-attachments/assets/a187d1f8-31c5-43f1-a9d8-00898b129fcf)
+![{E54406B0-7876-44BA-8D78-791A88EEA473}](https://github.com/user-attachments/assets/b6432471-7da0-4c7a-b33a-ebfdb756780b)
+![{45024987-41DF-4CD8-B825-D1C8CC224125}](https://github.com/user-attachments/assets/56f25b20-e9f6-4313-bcba-a0f498b72f50)
+![{5874EAFD-FDB8-4337-A45E-8689BAEEF8D7}](https://github.com/user-attachments/assets/3e3694ce-2f29-4d9d-b8cc-fb5707aaa1bc)
+![{D6812020-E08F-4A2F-AA61-C50D6EFCDC9A}](https://github.com/user-attachments/assets/48e033de-dc06-4f9c-bf37-462da7395460)
 
