@@ -55,6 +55,9 @@ This project demonstrates how to use SQL to manage and analyze a basic e-commerc
 - Performance optimized with `INDEX` on:
   - Foreign keys (`customer_id`, `product_id`)
   - Search fields (`country`, `category`)
+![{D838BCDF-F9AA-4888-AE26-40D61397A1E0}](https://github.com/user-attachments/assets/5ed76d84-95b4-4f43-915a-84abe9946604)
+![{D838BCDF-F9AA-4888-AE26-40D61397A1E0}](https://github.com/user-attachments/assets/621dbb3d-f7ac-4904-8c5f-4aaed5958ef5)
+![{2A627B1C-5B1C-4834-9266-F1835E4F76B4}](https://github.com/user-attachments/assets/479c8278-9010-4136-9a7c-59fa4e140228)
 
 ---
 
@@ -80,7 +83,7 @@ WHERE customer_id IN (
     FROM Orders
     WHERE quantity > 1
 );
-![{F0A7EB53-9415-420B-8485-1F7B432C5722}](https://github.com/user-attachments/assets/2b521708-c412-4efa-ba87-5cb6b91d02b3)
+
 
 
 
