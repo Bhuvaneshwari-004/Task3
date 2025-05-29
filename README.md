@@ -58,6 +58,11 @@ This project demonstrates how to use SQL to manage and analyze a basic e-commerc
 ![{D838BCDF-F9AA-4888-AE26-40D61397A1E0}](https://github.com/user-attachments/assets/5ed76d84-95b4-4f43-915a-84abe9946604)
 ![{D838BCDF-F9AA-4888-AE26-40D61397A1E0}](https://github.com/user-attachments/assets/621dbb3d-f7ac-4904-8c5f-4aaed5958ef5)
 ![{2A627B1C-5B1C-4834-9266-F1835E4F76B4}](https://github.com/user-attachments/assets/479c8278-9010-4136-9a7c-59fa4e140228)
+![{D838BCDF-F9AA-4888-AE26-40D61397A1E0}](https://github.com/user-attachments/assets/aeb95234-4b73-4cd5-96ce-285815c3ec49)
+![{A26B8FC7-7D78-4317-9047-A7855B396384}](https://github.com/user-attachments/assets/83235600-8780-40e7-aa02-04152db56030)
+![{64899CAD-BD8D-4AD8-8325-377CBD8F3D83}](https://github.com/user-attachments/assets/70d74485-8d56-4ab0-85cb-ead57941ea5d)
+![{3E2B2E15-AD3B-41E1-8786-7A5C70349428}](https://github.com/user-attachments/assets/c599e5d8-92b3-47aa-aad0-b86fbb2437d4)
+![{2A627B1C-5B1C-4834-9266-F1835E4F76B4}](https://github.com/user-attachments/assets/92ab8e71-2578-4642-93ca-c4fe36408480)
 
 ---
 
